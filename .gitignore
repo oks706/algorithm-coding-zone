@@ -1,0 +1,5 @@
+node_modules/
+fonts/
+*.tgz
+__pycache__/
+*.png
